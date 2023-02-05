@@ -1,0 +1,4 @@
+cat
+kitty
+kitten
+kitty cat
